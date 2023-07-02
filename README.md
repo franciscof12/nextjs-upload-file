@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Simple  upload file system
+
+![Captura de pantalla 2023-07-02 a las 22 16 26](https://github.com/franciscof12/nextjs-upload-file/assets/123760628/eb32be4e-9c76-4a13-a9e9-3a8a99dec8d1)
 
 ## Getting Started
 
@@ -27,8 +29,5 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Credits to FaztCode
+https://www.youtube.com/watch?v=b691Iqh87jY&t=125s
