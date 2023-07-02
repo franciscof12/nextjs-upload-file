@@ -41,6 +41,7 @@ export default function Home() {
 
           {
             file && (
+              // eslint-disable-next-line @next/next/no-img-element
               <img alt="upload file" src={URL.createObjectURL(file)}
               className='w-64 h-64 object-cover mx-auto mb-5'
               />
