@@ -78,6 +78,7 @@
   align-items: center;
   position: relative;
   padding: 4rem 0;
+  
 }
 
 .center::before {
@@ -86,6 +87,7 @@
   width: 480px;
   height: 360px;
   margin-left: -400px;
+  z-index: -1;
 }
 
 .center::after {
